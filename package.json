@@ -1,0 +1,19 @@
+{
+  "name": "crud-operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magedbebawy/crud-operations.git"
+  },
+  "author": "maged",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magedbebawy/crud-operations/issues"
+  },
+  "homepage": "https://github.com/magedbebawy/crud-operations#readme"
+}
